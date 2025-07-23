@@ -268,7 +268,7 @@ const database = {
         "last_name": "Cuel",
         "gender": "Female"
     }]
-}
+};
 
 
 
